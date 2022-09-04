@@ -4,3 +4,4 @@ leecode_algo.code-workspace
 *.tmp
 .git
 .*sw*
+LinkedList.cpp

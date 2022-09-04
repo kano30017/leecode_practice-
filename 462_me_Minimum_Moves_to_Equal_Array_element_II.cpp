@@ -8,7 +8,7 @@ vector<int>  merge(vector<int> left,vector<int> right){
     while(left.size() && right.size()){
         if (left[0] < right[0]){
             res.push_back(left.begin());
-            left.erase(left.begin());
+            left.erase(left.begin());a
         }
         else{
             res.push_back(right.begin());
